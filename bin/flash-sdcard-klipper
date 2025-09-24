@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # # CONFIG_LOW_LEVEL_OPTIONS is not set
 # # CONFIG_MACH_AVR is not set
 # # CONFIG_MACH_ATSAM is not set
